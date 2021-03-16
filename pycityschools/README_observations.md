@@ -6,15 +6,7 @@
 
 ## After the data analysis was performed there are few interesting trends that could be seen as follows:
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
+
 
 ### Top Performing Schools (By % Overall Passing)
 
