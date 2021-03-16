@@ -18,7 +18,7 @@
 
 ### Scores by School Spending
 
-* Observation: There is an interesting trend showing that with increasing the ammount to spend per student, all scores are actually going down, which means that increasing the budget doesn't necesserary brings better results
+* Observation: There is an interesting trend showing that with increasing the amount to spend per student, all scores are actually going down, which means that increasing the budget doesn't necesserary brings better results
 
 ### Scores by School Size
 
