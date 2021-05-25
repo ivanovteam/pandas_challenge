@@ -1,4 +1,5 @@
-# pandas_challenge
+# Pandas Project
+####
 
 This project is an analysis of the schools in a district.
 It shows different trends and results based on the students' results from passing math ans reading tests.
